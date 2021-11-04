@@ -1,0 +1,9 @@
+.left-image {
+    background-image: url(https://placekitten.com/200/300);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    background-color: rgb(235, 245, 255);
+}
